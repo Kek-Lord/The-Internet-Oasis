@@ -53,6 +53,22 @@ nav.boxes {
 	align-items: center;
 }
 
+.input_box {
+	border: none;
+	outline: none;
+	padding-right: 15px;
+	padding-left: 15px;
+	width: 350px;
+	font-size: 22px;
+	border-radius: 0px 0px 0px 0px;
+	height: 70px;
+	background: #222D32;
+	box-shadow: 0px 4px 5px #171D20;
+	text-align: center;
+	justify-content: left;
+	color:#CB4042;
+  }
+
 div.bookmark {
 	display: flex;
 	font-size: 24px;
